@@ -1,5 +1,5 @@
 # PyGame-Console
-Full-featured game console based on pygame that can be integrated in your python game in order to execute python command/scripts/custom in-game functions.
+Full-featured game console based on pygame that can be integrated in your python game in order to execute python command/scripts/custom in-game funclctions.
 
 ![screenshot](docs/02_console01_start.png)
 
